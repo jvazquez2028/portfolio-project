@@ -75,16 +75,16 @@ p {
   margin: 10px;
 }
 
-.email-link {
+.contact-link {
   display: flex;
   justify-content: center;
   color: var(--primary-color);
-  font-size: 28px;
+  font-size: 20px;
   text-decoration: none;
   padding: 10px 20px 30px;;
 }
 
-.email-link:hover {
+.contact-link:hover {
   text-decoration: underline;
 } 
 
